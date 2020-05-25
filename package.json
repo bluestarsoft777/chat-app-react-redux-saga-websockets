@@ -15,7 +15,7 @@
     "react-scripts": "1.0.14",
     "redux": "^3.7.2",
     "redux-saga": "^0.15.6",
-    "ws": "^3.2.0",
+    "ws": "^3.3.1",
     "prop-types": "*"
   },
   "scripts": {
